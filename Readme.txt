@@ -3,4 +3,4 @@ You need to install some libraries
 2 :- pip install tk
 3 :- pip install Pillow
 
-download both "instagram profile picture downloader.py" and ig.png
+download both "instagram All Post downloader.py" and ig.png
